@@ -1,6 +1,6 @@
-# 🏠 Data Before Doors
+# 🏠 House price prediction model
 
-**Data Before Doors** is an end-to-end **data preprocessing pipeline** for housing price prediction.
+**House price prediction model** is an end-to-end **data preprocessing pipeline** for housing price prediction.
 The project focuses on preparing raw housing data into a **clean, structured, and machine-learning-ready format** using **Scikit-Learn pipelines**.
 
 > *Because every smart home starts with clean data.*
